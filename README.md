@@ -1,7 +1,3 @@
-Here is a proposed README file for the `PCA_tool.py`:
-
----
-
 # PCA Tool
 
 ## Overview
