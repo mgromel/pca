@@ -94,15 +94,9 @@ For a hands-on example, refer to the accompanying Jupyter notebook `pca.ipynb`.
 
 ---
 
-## Contributing
-
-Contributions are welcome! Please submit issues or pull requests for bug fixes, enhancements, or additional features.
-
----
-
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache 2.0 License.
 
 ---
 
