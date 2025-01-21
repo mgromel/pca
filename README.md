@@ -81,6 +81,7 @@ pca.plot_loadings(n_pcs=2, thresh=0.7, save=True)
 ```
 
 #### Scatter Plot
+Here the tool will identify whether your target data is qualitative or quantitative and will apply appropriate customization.
 
 ```python
 pca.plot_scatter(plot_pcs=[1, 2], color_by_y=True, save=True)
@@ -105,5 +106,3 @@ This project is licensed under the Apache 2.0 License.
 For questions or feedback, please reach out to the project maintainer.
 
 --- 
-
-Let me know if you'd like to refine or add specific details!
