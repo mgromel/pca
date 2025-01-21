@@ -1,4 +1,4 @@
-# pca
+# Welcome!
  Script to perform Principal Component Analysis
 
  1. Load PCA_tool
