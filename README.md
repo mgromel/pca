@@ -1,8 +1,8 @@
-# PCA Tool
+# PCA Tool - simple wrapper to manage PCA easily
 
 ## Overview
 
-`PCA_tool.py` is a Python module for performing Principal Component Analysis (PCA) on datasets. This tool is designed for exploratory data analysis, allowing users to investigate data structure, dimensionality reduction, and variable relationships.
+`PCA_tool.py` is a Python wrapper module for performing Principal Component Analysis (PCA) on datasets. This tool is designed for exploratory data analysis, allowing users to investigate data structure, dimensionality reduction, and variable relationships.
 
 The tool provides functionalities for data scaling, PCA computation, visualization, and export of results. It supports continuous and discrete target variables for enhanced analysis.
 
